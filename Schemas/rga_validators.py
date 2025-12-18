@@ -18,6 +18,8 @@ class License(Validator):
         "CC0-1.0",
         "MIT",
         "Metro-14 CLA", # METRO14
+        "Metro14 CLA", # METRO14
+        "METRO14 CLA", # METRO14
         "Custom" # implies that the license is described in the copyright field.
         ]
 
